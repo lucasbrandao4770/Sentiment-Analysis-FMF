@@ -14,6 +14,7 @@ https://github.com/othneildrew/Best-README-Template/
 - [x] Lowercase
 - [x] Tokenização
 - [x] Lematização
+- [x] Label Encoding
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
