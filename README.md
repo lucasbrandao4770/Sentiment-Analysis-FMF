@@ -1,8 +1,11 @@
 # Sentiment-Analysis-FMF
 Projeto desenvolvido para a matéria de Pensamento Analítico de Dados do professor Fernando Marques Federson (UFG).
 
+Baseado no trabalho "[A Simple Guide to Scikit-Learn — Building a Machine Learning Model in Python](https://towardsdatascience.com/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a)", de Frank Andrade.
+
 <!-- ACKNOWLEDGMENTS
 https://github.com/othneildrew/Best-README-Template/
+https://towardsdatascience.com/a-beginners-guide-to-text-classification-with-scikit-learn-632357e16f3a
 -->
 
 # Pré-processamento
