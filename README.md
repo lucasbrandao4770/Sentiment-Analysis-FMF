@@ -22,6 +22,12 @@ https://github.com/othneildrew/Best-README-Template/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+# Otimização
+- [x] Cross Validation function (K-Fold)
+- [x] Comparison between models
+- [x] Better metrics generation
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
